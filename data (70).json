@@ -1,0 +1,11 @@
+{
+      "name": "Three of Swords",
+      "name_short": "sw03",
+      "value": "three",
+      "value_int": 3,
+      "suit": "swords",
+      "type": "minor",
+      "meaning_up": "Removal, absence, delay, division, rupture, dispersion, and all that the design signifies naturally, being too simple and obvious to call for specific enumeration.",
+      "meaning_rev": "Mental alienation, error, loss, distraction, disorder, confusion.",
+      "desc": "Three swords piercing a heart; cloud and rain behind."
+    }

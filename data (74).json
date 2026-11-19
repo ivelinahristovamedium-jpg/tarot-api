@@ -1,0 +1,11 @@
+{
+      "name": "Seven of Swords",
+      "name_short": "sw07",
+      "value": "seven",
+      "value_int": 7,
+      "suit": "swords",
+      "type": "minor",
+      "meaning_up": "Design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance. The design is uncertain in its import, because the significations are widely at variance with each other.",
+      "meaning_rev": "Good advice, counsel, instruction, slander, babbling.",
+      "desc": "A man in the act of carrying away five swords rapidly; the two others of the card remain stuck in the ground. A camp is close at hand."
+    }

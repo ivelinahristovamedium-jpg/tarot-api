@@ -1,0 +1,11 @@
+{
+      "name": "Three of Pentacles",
+      "name_short": "pe03",
+      "value": "three",
+      "value_int": 3,
+      "suit": "pentacles",
+      "type": "minor",
+      "meaning_up": "Métier, trade, skilled labour; usually, however, regarded as a card of nobility, aristocracy, renown, glory.",
+      "meaning_rev": "Mediocrity, in work and otherwise, puerility, pettiness, weakness.",
+      "desc": "A sculptor at his work in a monastery. Compare the design which illustrates the Eight of Pentacles. The apprentice or amateur therein has received his reward and is now at work in earnest."
+    }

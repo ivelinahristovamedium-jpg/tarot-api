@@ -1,0 +1,11 @@
+{
+      "name": "Four of Swords",
+      "name_short": "sw04",
+      "value": "four",
+      "value_int": 4,
+      "suit": "swords",
+      "type": "minor",
+      "meaning_up": "Vigilance, retreat, solitude, hermit's repose, exile, tomb and coffin. It is these last that have suggested the design.",
+      "meaning_rev": "Wise administration, circumspection, economy, avarice, precaution, testament.",
+      "desc": "The effigy of a knight in the attitude of prayer, at full length upon his tomb."
+    }
